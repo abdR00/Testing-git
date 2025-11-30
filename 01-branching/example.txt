@@ -1,4 +1,18 @@
 Print("Code for the login branch")
 bye
+<<<<<<< HEAD
 working This is Bug Fix this should not be here ...
+=======
+working on new fetaure
+
+Print("Nav bar added in the App")
+code for nav bar
+working on the navigation bar
+
+
+
+
+
+
+>>>>>>> feature/navbar
 
