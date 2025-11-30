@@ -1,3 +1,14 @@
 Print("Code for the login branch")
 bye
 working on new fetaure
+
+Print("Nav bar added in the App")
+code for nav bar
+working on the navigation bar
+
+
+
+
+
+
+
